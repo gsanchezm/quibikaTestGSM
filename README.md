@@ -17,6 +17,7 @@ Ensure Node.js is installed on your system, then install the dependencies:
 
 ```bash
 npm install
+```
 
 ## Configuration
 Edit the playwright.config.js to match your specific testing environment, such as setting a different base URL or enabling/disabling certain browsers for testing.
